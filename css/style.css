@@ -59,6 +59,11 @@ body {
     max-width: 150px;
     margin: 0 auto 1rem;
   }
+  .contact-section {
+    background: #f4f4f4;
+    padding: 2rem;
+    text-align: center;
+  }
   .contact-form {
     display: flex;
     flex-direction: column;
